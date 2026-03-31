@@ -9,7 +9,7 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=njbSaab&style=flat-square&color=14a0ff" alt="Profile views" />
   <a href="https://github.com/njbSaab/njx-css-ui">
-    <img src="https://img.shields.io/github/stars/njbSaab/njx-css-ui?style=flat-square&color=14a0ff&label=njX%20UI%20⭐" alt="njX UI stars" />
+    <img src="https://img.shields.io/github/stars/njbSaab/njx-css-ui?style=flat-square&color=14a0ff&label=njX+UI+stars" alt="njX UI stars" />
   </a>
   <img src="https://img.shields.io/badge/Location-Kyiv%2C%20Ukraine-14a0ff?style=flat-square" alt="Location" />
   <img src="https://img.shields.io/badge/Remote-OK-22c55e?style=flat-square" alt="Remote OK" />
