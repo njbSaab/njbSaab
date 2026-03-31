@@ -45,10 +45,20 @@ In my spare time I experiment with **AI integrations**, **CSS design systems** a
   <img src="https://img.shields.io/npm/v/njx-ui?style=for-the-badge&color=cb3837&label=npm" alt="npm" />
 </a>
 
-> **njX UI** is a lightweight CSS component library — 25+ components, 9 color themes, zero JavaScript dependencies, ~40KB minified. Drop one  tag and go.
+> **njX UI** is a lightweight CSS component library — 25+ components, 9 color themes, zero JavaScript dependencies, ~40KB minified. Drop one `<link>` tag and go.
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/njbSaab/njx-css-ui/main/img/gif/overview-1.gif" alt="njX UI — library overview" width="100%" />
+</div>
 
 ```html
+<!-- Latest version -->
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/njx-ui/css/style.min.css">
+<script src="https://cdn.jsdelivr.net/npm/njx-ui/js/njx.js"></script>
+
+<!-- Pinned version (recommended for production) -->
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/njx-ui@1.0.4/css/style.min.css">
+<script src="https://cdn.jsdelivr.net/npm/njx-ui@1.0.4/js/njx.js"></script>
 ```
 
 ---
