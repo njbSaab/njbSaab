@@ -77,22 +77,6 @@ In my spare time I experiment with **AI integrations**, **CSS design systems** a
 
 <table>
   <tr>
-    <td width="55%" valign="top">
-      <img
-        src="https://git-hub-streak-stats.vercel.app/?user=njbSaab&theme=tokyonight&hide_border=true"
-        alt="GitHub Streak"
-        style="width:100%; display:block;"
-      />
-    </td>
-    <td width="45%" valign="middle" align="center">
-      <img
-        src="https://github-readme-stats.vercel.app/api/top-langs?username=njbSaab&show_icons=true&langs_count=7&theme=tokyonight&hide_border=true&locale=en"
-        alt="Top Languages"
-        style="max-width:100%; display:block;"
-      />
-    </td>
-  </tr>
-  <tr>
     <td colspan="2">
       <img
         src="https://github-readme-activity-graph.vercel.app/graph?username=njbSaab&custom_title=Najib%27s%20Contribution%20Graph&theme=tokyo-night&hide_border=true&radius=8"
