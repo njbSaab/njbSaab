@@ -24,15 +24,15 @@ I own products end-to-end: architecture, backend APIs, databases, infrastructure
 Over the last 3 years I've been building high-volume B2C platforms (iGaming / affiliate, sports data, subscription SaaS, lead-gen funnels) as the sole full-stack and DevOps owner.
 
 - 🏗️ **Creator of [njX UI](https://njxui.dev)** — lightweight CSS component library, 25+ components, 9 themes, ~40KB, zero dependencies
-- ⚙️ Backend: **NestJS** (Clean Architecture · CQRS · DDD) · **Go** (net/http, chi, pgx — high-concurrency services) · Fastify · Hono · Python (FastAPI, Django)
-- 🖥️ Frontend: **React 19** · **Angular 15–20** (OOP + FSD, SSR) · Vue 3 · Svelte 5 · Astro (SSR / SSG) · Expo / React Native · PWA · Telegram Mini Apps
+- ⚙️ Backend: **NestJS** (Clean Architecture · CQRS · DDD) · **Go** (net/http, chi, pgx — high-concurrency services) · Hono Workers · Python (FastAPI, Django)
+- 🖥️ Frontend: **React 19** · **Angular 15–20** (OOP + FSD, SSR) · Svelte 5 · Astro (SSR / SSG) · PWA 
 - 🗄️ Data: **PostgreSQL** (pgvector, jsonb, advisory locks) · MySQL / MariaDB · Redis · MongoDB · Cloudflare D1 · Prisma · TypeORM · Drizzle · pgx
 - 🔁 Queues & caching: BullMQ · Cloudflare Queues · PostgreSQL job queues (`SKIP LOCKED`) · Celery · two-tier caches · singleflight
 - 🚀 DevOps: up to **5 production VDS from scratch** — Linux hardening, Nginx / Caddy, TLS, Docker, PM2, CI/CD, zero-downtime deploys · **AWS** (EC2, S3, Lambda) · **Cloudflare end-to-end** (DNS, proxy, email, Workers, D1, R2, Queues, Pages)
 - 📈 Observability: Sentry · Grafana · Prometheus · Uptime Kuma · structured logging · Telegram ops alerts
 - 🤖 AI: LLM pipelines via OpenRouter / Groq / Claude / Gemini · embeddings + pgvector · FastAPI AI microservices · agent automation
 - 🛍️ Building a portfolio of **Shopify apps** on Cloudflare Workers (webhooks → queues → consumers, 600+ tests)
-- 📍 Kyiv, Ukraine · Remote OK · 50+ projects · Full development cycle
+- 📍 Kyiv · Remote OK · 50+ projects · Full development cycle
 - 📫 **hi@njxui.dev**
   
 ---
