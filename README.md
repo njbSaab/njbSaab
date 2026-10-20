@@ -11,7 +11,7 @@
   <a href="https://github.com/njbSaab/njx-css-ui">
     <img src="https://img.shields.io/github/stars/njbSaab/njx-css-ui?style=flat-square&color=14a0ff&label=njX+UI+stars" alt="njX UI stars" />
   </a>
-  <img src="https://img.shields.io/badge/Location-Kyiv%2C%20Ukraine-14a0ff?style=flat-square" alt="Location" />
+  <img src="https://img.shields.io/badge/Location-Kyiv%2C%20?style=flat-square" alt="Location" />
   <img src="https://img.shields.io/badge/Remote-OK-22c55e?style=flat-square" alt="Remote OK" />
 </p>
 
@@ -19,7 +19,7 @@
 
 ## 👨‍💻 About Me
 
-I'm **Najib Saab** — Senior Full-Stack Engineer from **Kyiv, Ukraine** with **5+ years** of commercial experience.
+I'm **Najib Saab** — Senior Full-Stack Engineer from **Kyiv** with **5+ years** of commercial experience.
 I own products end-to-end: architecture, backend APIs, databases, infrastructure, CI/CD, monitoring and the UI.
 Over the last 3 years I've been building high-volume B2C platforms (iGaming / affiliate, sports data, subscription SaaS, lead-gen funnels) as the sole full-stack and DevOps owner.
 
@@ -129,7 +129,7 @@ Over the last 3 years I've been building high-volume B2C platforms (iGaming / af
 const najib = {
   name:       "Najib Saab",
   alias:      "nj / @Nj_Saab",
-  location:   "Kyiv, Ukraine 🇺🇦",
+  location:   "Kyiv",
   remote:     true,
   role:       "Senior Full-Stack Engineer",
   experience: "5+ years commercial · 3 years owning systems end-to-end",
